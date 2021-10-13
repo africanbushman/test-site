@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a website that shows my progress as a software developer and this repository deals with my introduction to CSS.  
+This is a website that shows my progress as a software developer and this repository deals with the implementation of ideas I have learnt.  
 
 ## Setup/Installation Requirements
 
