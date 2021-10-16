@@ -31,4 +31,5 @@ If you need to contact us, The contact information can be found on the website.
 * This website is under the MIT license *
 
 <img src="images/cyberpunk.gif" alt="Cyberpunk driving a car">
-Copyright (c) 2021 **Hive corporation**
+
+#### Copyright (c) 2021 **Hive corporation**
