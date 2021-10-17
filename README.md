@@ -1,7 +1,8 @@
-## This is a test site
+# This is a test site
+
 <img src ="images/spacecraft.jpg" alt ="A spacecraft">
 
-#### By **David M'rabu**
+## By **David M'rabu**
 
 ## Description
 
