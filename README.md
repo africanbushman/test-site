@@ -1,9 +1,5 @@
 # This is a test site
 
-## Markdown heading  
-
-    <img src ="images/spacecraft.jpg" alt ="A spacecraft">
-
 ## By **David M'rabu**
 
 ## Description
@@ -30,9 +26,5 @@ If you need to contact us, The contact information can be found on the website.
 ## License
 
 * This website is under the MIT license *
-
-## Markdown  heading  
-
-        <img src="images/cyberpunk.gif" alt="Cyberpunk driving a car">
 
 ## Copyright (c) 2021 *Hive corporation*
