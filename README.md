@@ -31,7 +31,7 @@ If you need to contact us, The contact information can be found on the website.
 
 * This website is under the MIT license *
 
-## Markdown heading  
+## Markdown  heading  
 
         <img src="images/cyberpunk.gif" alt="Cyberpunk driving a car">
 
