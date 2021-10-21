@@ -31,8 +31,4 @@ If you need to contact us, The contact information can be found on the website.
 
 <img src="images/cyberpunk.gif" alt="Cyberpunk driving a car">
 
-<<<<<<< HEAD
 ## Copyright (c) 2021 *Hive corporation*
-=======
-#### Copyright (c) 2021 *Hive corporation*
->>>>>>> e751f609e2ae92c9b9a79000c48330a3c8c204cf
